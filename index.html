@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>US Cities Search</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <main class="container">
+        <h1>US Cities Search</h1>
+
+        <p class="subtitle">
+            Search for city information by ZIP code or city name.
+        </p>
+
+        <div class="search-area">
+            <input
+                type="text"
+                id="searchInput"
+                placeholder="Enter ZIP code or city name"
+                autocomplete="off"
+                aria-label="Search by ZIP code or city name"
+            >
+
+            <button id="searchBtn" type="button">
+                Search
+            </button>
+        </div>
+
+        <div id="results" aria-live="polite">
+            Enter a city name or ZIP code to begin.
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
