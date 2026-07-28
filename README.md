@@ -152,8 +152,6 @@ This project was developed for the University of Cincinnati Software Engineering
 
  https://randa45044.github.io/uscities-search/
 
-<img width="468" height="40" alt="image" src="https://github.com/user-attachments/assets/1dc6e2d3-32a3-47e6-bbb0-cdf1046a6ed9" />
-
 
 Azure Deployment
 
