@@ -146,3 +146,18 @@ University of Cincinnati
 ## License
 
 This project was developed for the University of Cincinnati Software Engineering course.
+
+
+## Live API
+
+Azure Deployment
+
+https://randa45044-uscities-microservices-ehhqffhagcfefxdx.eastus-01.azurewebsites.net
+
+### Example ZIP Search
+
+https://randa45044-uscities-microservices-ehhqffhagcfefxdx.eastus-01.azurewebsites.net/uscities-search/45202
+
+### Example City Search
+
+https://randa45044-uscities-microservices-ehhqffhagcfefxdx.eastus-01.azurewebsites.net/uscities-search/Cincinnati
