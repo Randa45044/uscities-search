@@ -150,6 +150,11 @@ This project was developed for the University of Cincinnati Software Engineering
 
 ## Live API
 
+ https://randa45044.github.io/uscities-search/
+
+<img width="468" height="40" alt="image" src="https://github.com/user-attachments/assets/1dc6e2d3-32a3-47e6-bbb0-cdf1046a6ed9" />
+
+
 Azure Deployment
 
 https://randa45044-uscities-microservices-ehhqffhagcfefxdx.eastus-01.azurewebsites.net
@@ -161,3 +166,5 @@ https://randa45044-uscities-microservices-ehhqffhagcfefxdx.eastus-01.azurewebsit
 ### Example City Search
 
 https://randa45044-uscities-microservices-ehhqffhagcfefxdx.eastus-01.azurewebsites.net/uscities-search/Cincinnati
+
+
